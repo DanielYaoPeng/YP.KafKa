@@ -6,3 +6,12 @@ D:\项目\DotNetCore\YP.KafKa\Kafka\obj\Debug\netstandard2.0\Kafka.AssemblyInfo.
 D:\项目\DotNetCore\YP.KafKa\Kafka\bin\Debug\netstandard2.0\Kafka.pdb
 D:\项目\DotNetCore\YP.KafKa\Kafka\obj\Debug\netstandard2.0\Kafka.dll
 D:\项目\DotNetCore\YP.KafKa\Kafka\obj\Debug\netstandard2.0\Kafka.pdb
+D:\Git项目\YP.KafKa\Kafka\bin\Debug\netstandard2.0\Kafka.deps.json
+D:\Git项目\YP.KafKa\Kafka\bin\Debug\netstandard2.0\Kafka.dll
+D:\Git项目\YP.KafKa\Kafka\bin\Debug\netstandard2.0\Kafka.pdb
+D:\Git项目\YP.KafKa\Kafka\obj\Debug\netstandard2.0\Kafka.csprojAssemblyReference.cache
+D:\Git项目\YP.KafKa\Kafka\obj\Debug\netstandard2.0\Kafka.csproj.CoreCompileInputs.cache
+D:\Git项目\YP.KafKa\Kafka\obj\Debug\netstandard2.0\Kafka.AssemblyInfoInputs.cache
+D:\Git项目\YP.KafKa\Kafka\obj\Debug\netstandard2.0\Kafka.AssemblyInfo.cs
+D:\Git项目\YP.KafKa\Kafka\obj\Debug\netstandard2.0\Kafka.dll
+D:\Git项目\YP.KafKa\Kafka\obj\Debug\netstandard2.0\Kafka.pdb

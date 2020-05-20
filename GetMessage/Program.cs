@@ -20,7 +20,7 @@ namespace GetMessage
             while ((text = Console.ReadLine()) != "q")
             {
 
-                using (var kafkaProducer = new KafkaConsumer(config, "topic-b"))
+                using (var kafkaProducer = new KafkaConsumer(config, "topic-d"))
                 {
                     var result = kafkaProducer.Consume<object>();
                     if (result != null)

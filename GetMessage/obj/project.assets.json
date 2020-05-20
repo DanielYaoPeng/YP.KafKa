@@ -270,38 +270,37 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\mingdao\\.nuget\\packages\\": {},
+    "C:\\Users\\YaoPeng.DANIELYAO\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\项目\\DotNetCore\\YP.KafKa\\GetMessage\\GetMessage.csproj",
+      "projectUniqueName": "D:\\Git项目\\YP.KafKa\\GetMessage\\GetMessage.csproj",
       "projectName": "GetMessage",
-      "projectPath": "D:\\项目\\DotNetCore\\YP.KafKa\\GetMessage\\GetMessage.csproj",
-      "packagesPath": "C:\\Users\\mingdao\\.nuget\\packages\\",
-      "outputPath": "D:\\项目\\DotNetCore\\YP.KafKa\\GetMessage\\obj\\",
+      "projectPath": "D:\\Git项目\\YP.KafKa\\GetMessage\\GetMessage.csproj",
+      "packagesPath": "C:\\Users\\YaoPeng.DANIELYAO\\.nuget\\packages\\",
+      "outputPath": "D:\\Git项目\\YP.KafKa\\GetMessage\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\mingdao\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\YaoPeng.DANIELYAO\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
       ],
       "sources": {
-        "https://mirrors.cloud.tencent.com/nuget/": {},
-        "https://nexus.mingdao.net/repository/mingdao-nuget-group/": {},
-        "https://www.nuget.org/api/v2/": {}
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "D:\\项目\\DotNetCore\\YP.KafKa\\Kafka\\Kafka.csproj": {
-              "projectPath": "D:\\项目\\DotNetCore\\YP.KafKa\\Kafka\\Kafka.csproj"
+            "D:\\Git项目\\YP.KafKa\\Kafka\\Kafka.csproj": {
+              "projectPath": "D:\\Git项目\\YP.KafKa\\Kafka\\Kafka.csproj"
             }
           }
         }
@@ -335,7 +334,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
       }
     }
   }

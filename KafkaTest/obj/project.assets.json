@@ -5101,7 +5101,7 @@
       ]
     },
     "System.Runtime.Loader/4.0.0": {
-      "sha512": "4UN78GOVU/mbDFcXkEWtetJT/sJ0yic2gGk1HSlSpWI0TDf421xnrZTDZnwNBapk1GQeYN7U1lTj/aQB1by6ow==",
+      "sha512": "AGWrywLI2B15/dnLuFnlHWFjXmq1Tl0kjWaKTHbaJ8T9kIxiQ8YGTtiMQc8rUr49l2JjfZa7QY0KKqlyzA7NNg==",
       "type": "package",
       "path": "system.runtime.loader/4.0.0",
       "files": [
@@ -5917,7 +5917,7 @@
       ]
     },
     "System.Threading.Thread/4.0.0": {
-      "sha512": "gIdJqDXlOr5W9zeqFErLw3dsOsiShSCYtF9SEHitACycmvNvY8odf9kiKvp6V7aibc8C4HzzNBkWXjyfn7plbQ==",
+      "sha512": "nuUpkup2FbB4Xf62nwWARtm1wQ457fEyR9KvLsCzBSj1yQTtKuqmlSgw/e6aiwB3CiUEAUbZ1IgEvza/m2SYxA==",
       "type": "package",
       "path": "system.threading.thread/4.0.0",
       "files": [
@@ -5957,7 +5957,7 @@
       ]
     },
     "System.Threading.ThreadPool/4.0.10": {
-      "sha512": "IMXgB5Vf/5Qw1kpoVgJMOvUO1l32aC+qC3OaIZjWJOjvcxuxNWOK2ZTWWYXfij22NHxT2j1yWX5vlAeQWld9vA==",
+      "sha512": "dupLOpVBSXb3G/Ab9utLVbOYxZ+hnq5ExVz6Dk9CBlzXm6Znw1GAIOv5HEjlkECZJz40I8zhhxaJHWVsWO484Q==",
       "type": "package",
       "path": "system.threading.threadpool/4.0.10",
       "files": [
@@ -6529,38 +6529,37 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\mingdao\\.nuget\\packages\\": {},
+    "C:\\Users\\YaoPeng.DANIELYAO\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\项目\\DotNetCore\\YP.KafKa\\KafkaTest\\KafkaTest.csproj",
+      "projectUniqueName": "D:\\Git项目\\YP.KafKa\\KafkaTest\\KafkaTest.csproj",
       "projectName": "KafkaTest",
-      "projectPath": "D:\\项目\\DotNetCore\\YP.KafKa\\KafkaTest\\KafkaTest.csproj",
-      "packagesPath": "C:\\Users\\mingdao\\.nuget\\packages\\",
-      "outputPath": "D:\\项目\\DotNetCore\\YP.KafKa\\KafkaTest\\obj\\",
+      "projectPath": "D:\\Git项目\\YP.KafKa\\KafkaTest\\KafkaTest.csproj",
+      "packagesPath": "C:\\Users\\YaoPeng.DANIELYAO\\.nuget\\packages\\",
+      "outputPath": "D:\\Git项目\\YP.KafKa\\KafkaTest\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\mingdao\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\YaoPeng.DANIELYAO\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
       ],
       "sources": {
-        "https://mirrors.cloud.tencent.com/nuget/": {},
-        "https://nexus.mingdao.net/repository/mingdao-nuget-group/": {},
-        "https://www.nuget.org/api/v2/": {}
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "D:\\项目\\DotNetCore\\YP.KafKa\\Kafka\\Kafka.csproj": {
-              "projectPath": "D:\\项目\\DotNetCore\\YP.KafKa\\Kafka\\Kafka.csproj"
+            "D:\\Git项目\\YP.KafKa\\Kafka\\Kafka.csproj": {
+              "projectPath": "D:\\Git项目\\YP.KafKa\\Kafka\\Kafka.csproj"
             }
           }
         }
@@ -6610,7 +6609,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
       }
     }
   }
